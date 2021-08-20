@@ -1,0 +1,3 @@
+sinh vien 1, Nguyen Van A, 1/7/1999
+sinh vien 2, Nguyen Van B, 2/9/1998
+sinh vien 3, Nguyen Van C, 5/3/1999

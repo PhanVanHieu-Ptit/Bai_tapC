@@ -1,0 +1,4 @@
+              Ho Ten   GT Tuoi        DT        DL        DH       DTB
+       Phan Van Hieu  Nam   19  5.000000  6.000000  7.000000  6.000000
+         Nguyen Ngoc   Nu   18  5.000000  7.000000  6.000000  6.000000
+            Nguyen L   Nu   18  7.000000  8.000000  9.000000  8.000000
